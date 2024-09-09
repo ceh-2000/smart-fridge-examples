@@ -1,5 +1,5 @@
 # Smart fridge examples
-THis repository consists of an easy, medium, and hard version of a smart fridge. 
+This repository consists of an easy, medium, and hard version of a smart fridge. 
 
 All versions of the smart fridge take in ingredients that a user has in their refrigerator and output possible recipes a user could make with these ingredients, to reduce food waste.
 
