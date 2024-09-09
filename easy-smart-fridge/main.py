@@ -1,7 +1,7 @@
 import pandas as pd # Shortened name of our package for reference in this file
 
 # Read the CSV file
-file_path = 'RAW_recipes.csv'
+file_path = 'recipes.csv'
 df = pd.read_csv(file_path)
 
 # Extract specific columns
