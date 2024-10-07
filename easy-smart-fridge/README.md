@@ -28,4 +28,4 @@ pip3 install pandas
 ```
 python3 main.py
 ```
-and follow the prompt to enter possible ingredients. Once example would be `olive oil, winter squash, salt`.
+and follow the prompt to enter possible ingredients. One example would be `olive oil, winter squash, salt`.
